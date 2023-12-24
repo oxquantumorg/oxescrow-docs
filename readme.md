@@ -1,13 +1,13 @@
 # Technical Specification for Little Biggy Payment Processor
 
-## Project Overview
+## [Project Overview](/docs/01-objectives.md)
 - Define goals, objectives, and user interactions.
 
 ## API Integration Analysis
 - Obtain test credentials for Chainlink and Solana APIs.
 - Analyze API documentation for functionalities, endpoints, and authentication methods.
 
-## System Architecture
+## [System Architecture]()
 - Create a high-level architectural diagram.
 - Specify backend, frontend, and database requirements.
 - Define technology stack (languages, frameworks).
@@ -38,3 +38,4 @@
 ## Deployment and Maintenance
 - Deploy on testnet and plan production deployment.
 - Define maintenance plan for updates and bug fixes.
+
