@@ -27,4 +27,4 @@
 
 In summary, the goal is to create a robust payment processor that leverages the stability and efficiency of USD stable coins on the Solana blockchain to facilitate seamless transactions between buyers and sellers within the LittleBiggy platform, enhancing the overall user experience and transaction security.
 
-[GO HOME](../readme.md)
+[GO HOME](/readme.md)

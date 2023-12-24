@@ -7,7 +7,7 @@
 - Obtain test credentials for Chainlink and Solana APIs.
 - Analyze API documentation for functionalities, endpoints, and authentication methods.
 
-## [System Architecture]()
+## [System Architecture](/docs/02-system-structure.md)
 - Create a high-level architectural diagram.
 - Specify backend, frontend, and database requirements.
 - Define technology stack (languages, frameworks).

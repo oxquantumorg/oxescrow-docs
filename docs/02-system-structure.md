@@ -1,7 +1,7 @@
 ## System Architecture
 
 #### High-Level Architectural Diagram
-![System Architecture Diagram](link_to_your_diagram_image)
+![System Architecture Diagram](./images//LittleBiggy.jpg)
 
 #### Backend, Frontend, and Database Requirements
 - **Frontend (ReactJS):**
@@ -25,3 +25,5 @@
 
 ### Summary
 The architecture consists of a ReactJS frontend for user interaction, Rust-based smart contracts on the Solana blockchain for executing payment transactions, Subgraph for efficient data indexing, and NodeJS for the oracle handling interactions with the LittleBiggy API. This combination of technologies aims to provide a robust and scalable system for the LittleBiggy payment processor, ensuring a seamless user experience and reliable transaction processing.
+
+[GO HOME](/readme.md)
