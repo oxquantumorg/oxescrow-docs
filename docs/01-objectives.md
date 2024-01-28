@@ -17,14 +17,4 @@
 - **Sellers:** Individuals selling goods/services on LittleBiggy.
 - **Payment Processor Interface:** User-friendly interface allowing buyers to make payments and sellers to receive them, displaying transaction details and invoice generation.
 
-### Role of USD Stable Coins on the Solana Blockchain:
-
-- **Transaction Medium:** USD stable coins on the Solana blockchain serve as a reliable digital representation of US dollars.
-- **Reduced Volatility:** Stable coins aim to minimize the price fluctuations seen in cryptocurrencies, offering stability akin to traditional fiat currencies like the US dollar.
-- **Efficient Transactions:** They enable faster and cheaper cross-border transactions compared to conventional banking systems.
-- **Smart Contract Operations:** USD stable coins facilitate the execution of payment-related smart contracts, ensuring secure and transparent transactions on the Solana blockchain.
-- **Integration in Payment Processor:** They become the currency of choice for transactions within the LittleBiggy payment processor, providing a stable and consistent value for purchases and sales on the platform.
-
-In summary, the goal is to create a robust payment processor that leverages the stability and efficiency of USD stable coins on the Solana blockchain to facilitate seamless transactions between buyers and sellers within the LittleBiggy platform, enhancing the overall user experience and transaction security.
-
 [GO HOME](/readme.md)

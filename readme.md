@@ -1,41 +1,15 @@
-# Technical Specification for Little Biggy Payment Processor
+# OxEscrow Payment Processor
+Oxescrow is a payment processor that allows people send and receive 
+USDC trustlessly on the solana network.
 
-## [Project Overview](docs/01-objectives.md)
-- Define goals, objectives, and user interactions.
+The Oxescrow provides a slick and easy to use interface that lets users perform transactions on the platform as well as track payments and ongoing escrow transactions.
 
-## API Integration Analysis
-- Obtain test credentials for Chainlink and Solana APIs.
-- Analyze API documentation for functionalities, endpoints, and authentication methods.
+With the Oxescrow someone offering a goods or service online can recieve payments from their respective clients and visiting the platform, creating an escrow wallet account and send to their clients to make payments. Once usdc is deposited into that wallet it then gets converted into an escrow between the depositor and the initializer of the wallet.
 
-## [System Architecture](docs/02-system-structure.md)
-- Create a high-level architectural diagram.
-- Specify backend, frontend, and database requirements.
-- Define technology stack (languages, frameworks).
+The steps are as follows 
+- Seller visit the website and generate an escrow wallet account that can receive usdc
+- Buyer sends usdc to the account
+- The escrow platform auto release the usdc to the seller at the expiry date
 
-## Stable Coin Integration
-- Choose compatible USD stable coin (e.g., USDC, USDT).
-- Implement functionalities for transactions and wallet management.
-
-## Chainlink Integration
-- Implement oracle integration for external data retrieval.
-- Set up API calls to fetch necessary data.
-
-## Smart Contract Development
-- Develop contracts for transactions and user balances.
-- Ensure security and conduct testing and auditing.
-
-## User Interface (UI) and User Experience (UX)
-- Design user-friendly interface.
-- Implement features for account management and transactions.
-
-## Testing
-- Perform comprehensive testing (unit, integration, end-to-end).
-- Conduct stress tests for scalability.
-
-## Documentation
-- Create technical documentation covering architecture and user guides.
-
-## Deployment and Maintenance
-- Deploy on testnet and plan production deployment.
-- Define maintenance plan for updates and bug fixes.
-
+#### Oxescrow User Story
+![User story](./assets/user-story.jpg)
